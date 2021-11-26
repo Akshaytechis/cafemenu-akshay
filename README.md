@@ -4,9 +4,9 @@
 Cafe Menu App, with a frontend built in React & Redux and a backend built in Django API.
 ```
 
-Check out [FRONTEND LIVE DEMO](https://techis-wd-sample-cafe.herokuapp.com/) here!!
+Check out [FRONTEND LIVE DEMO](https://frontend-akshay.herokuapp.com/) here!!
 
-Check out [API LIVE DEMO](https://techis-wd-sample-cafe-api.herokuapp.com/) here!!
+Check out [API LIVE DEMO](https://backend-akshay.herokuapp.com/) here!!
 
 ## Tech used
 
