@@ -60,7 +60,7 @@ export default class API {
   // Item
   ////////////////////////////////
   getItems = async (category) => {
-    let url = "/items";
+    let url = "/items/";
     if (category) {
       url += "?category=" + category;
     }
