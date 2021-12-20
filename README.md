@@ -20,7 +20,7 @@ Check out [API LIVE DEMO](https://backend-akshay.herokuapp.com/) here!!
 1. Git Clone
 
 ```
-git clone git@github.com:Tech-i-s/techis-wd-sample-cafe-menu.git
+git clone https://github.com/Akshaytechis/cafemenu-akshay.git
 ```
 
 2. Backend setting
